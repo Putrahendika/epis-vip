@@ -1,16 +1,16 @@
 {
-  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
-  "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
-  "instagram": "https://instagram.com/repannthisori021_",
-  "author": "Yntkts",
-  "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "thumb": "https://telegra.ph/file/23e5393b14741bfbe1340.jpg",
+  "namebot": "Putra-Botz",
+  "botNumber": "6285351046768@s.whatsapp.net",
+  "owner": ["6283824035969@s.whatsapp.net"],
+  "instagram": "https://instagram.com/putra_satya28",
+  "author": "Putra✓",
+  "session": "session",
+  "email": "pt.putrabotz@tensi.org",
   "self": false,
   "packInfo":{
-    "packname": "Senkuu",
-    "author": "Beta ✓"
+    "packname": "Putrabotz",
+    "author": "Putra ✓"
   },
   "ignore": {
 		"directory": ["umum"]
